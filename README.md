@@ -14,5 +14,28 @@ Every request requires:
 X-RapidAPI-Key: YOUR_API_KEY
 X-RapidAPI-Host: medical-codes-api1.p.rapidapi.com
 
+## 📝 Code Samples
 
+Clone the repo and run examples directly:
+
+```bash
+git clone https://github.com/<your-username>/medical-codes-api.git
+cd medical-codes-api/examples
+
+pip install requests
+python python_example.py
+
+npm install node-fetch
+node node_example.js
+
+npm install node-fetch
+node node_example.js
+
+---
+
+## 🔹 Step 4: Commit and push
+```bash
+git add examples/ README.md
+git commit -m "Add Python, Node.js, and cURL examples"
+git push origin main
 
